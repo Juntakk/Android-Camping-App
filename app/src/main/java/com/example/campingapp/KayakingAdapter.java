@@ -41,6 +41,7 @@ public class KayakingAdapter extends ArrayAdapter<KayakingReservation> {
             txtViewDays.setText(k.color);
         }
 
+
         return convertView;
     }
 }
